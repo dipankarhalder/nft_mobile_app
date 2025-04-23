@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/AvenirNext-Bold.ttf",
+      "sha1": "f2d13f530e5123ee44cfa15c3bb6936c5c8ef9fa"
+    },
+    {
+      "path": "src/assets/fonts/AvenirNext-DemiBold.ttf",
+      "sha1": "8df3f368e6f0c616d6a22b6e2b677f67b91f9152"
+    },
+    {
+      "path": "src/assets/fonts/AvenirNext-Medium.ttf",
+      "sha1": "fffacf392ca5260d66250591693cd83d3b76a0b7"
+    },
+    {
+      "path": "src/assets/fonts/AvenirNext-Regular.ttf",
+      "sha1": "7e17ea1f3b4502619ca321498fbe682b47a31c4d"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-Bold.ttf",
+      "sha1": "dea5eec0aca2aef62e3bfc625cf95f9d45b59687"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-Medium.ttf",
+      "sha1": "0e3a9789daa6603bf6870c124727c3643b56574a"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-Regular.ttf",
+      "sha1": "4b7236ba666cb77f00d8cb2a17696cc0dc2b2cc9"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-SemiBold.ttf",
+      "sha1": "876165d70aa2e00f66737c7dd87039e2619bf2c2"
+    },
+    {
+      "path": "src/assets/images/mainbg.png",
+      "sha1": "67422f18e036d62613df50daf9977e82fd622ccd"
+    },
+    {
+      "path": "src/assets/images/rightarrow.png",
+      "sha1": "4bc5a3fa25138b6224c882722733e1680621a66d"
+    }
+  ]
+}
